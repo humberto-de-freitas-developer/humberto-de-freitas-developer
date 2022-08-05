@@ -4,8 +4,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div align="center">
   <a href="https://github.com/">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=humberto-de-freitas-developer&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto-de-freitas-developer&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=humberto-de-freitas-developer&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto-de-freitas-developer&layout=compact&langs_count=7&theme=dracula"/>
     </div>
 
  ### Main skills:
