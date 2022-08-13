@@ -10,9 +10,7 @@
     </div>
 
  ### Main skills:
-  ![GitHub](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javaScript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
   ### Tools:
@@ -22,12 +20,8 @@
 ![microsoft-office](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=PowerBi&labelColor=0D1117)&nbsp;
  ![Windows](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp; 
 
-  ### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;  
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117)&nbsp;  
-
+  ### Studying in this moment: 
+[![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,php,git)](https://skillicons.dev)
   
   ##
   <div> 
