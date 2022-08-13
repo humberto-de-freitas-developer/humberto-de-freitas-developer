@@ -14,11 +14,12 @@
 
 
   ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=linux,vscode,github)](https://skillicons.dev)
+  ###
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=PowerBi&labelColor=0D1117)&nbsp;
- ![Windows](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp; 
+
+  
 
   ### Studying in this moment: 
 [![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,php,git)](https://skillicons.dev)
