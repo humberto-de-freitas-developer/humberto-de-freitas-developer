@@ -14,7 +14,7 @@
 
 
   ### Tools:
-  [![My Skills](https://skillicons.dev/icons?i=linux,vscode,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,linux)](https://skillicons.dev)
   ###
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=PowerBi&labelColor=0D1117)&nbsp;
