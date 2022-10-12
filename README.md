@@ -22,7 +22,7 @@
   
 
   ### Studying in this moment: 
-[![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,php,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,php,git,dotnet)](https://skillicons.dev)
   
   ##
   <div> 
